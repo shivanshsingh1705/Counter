@@ -1,2 +1,2 @@
 # Counter
-Increment and Decrement tool
+## Increment and Decrement tool
